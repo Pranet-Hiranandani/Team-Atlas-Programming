@@ -29,3 +29,11 @@ Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Cha
 - Other parameters include speed, distance, RPM, position among others. Applications that use encoders or other sensors to control specific parameters are often referred to as closed-loop feedback or closed-loop control systems.
 - For complex movement like strafing and diagonal movement for our mecanum wheels we had to use trial and error and our knowledge of vectors to create code for the autonomous period. 
 
+## Machine Learning
+
+- In the autonomous period, there is a twenty point bonus for placing the pre-loaded freight on the right level by detecting the position of a placed shipping element. - To solve this challenge, we decided to use a machine learning model to detect the position of the shipping element and accordingly preload the freight to the right level.
+- We mounted our Logitech 310 Webcam to our robot and took videos of our shipping element on a variety of different backgrounds.
+- Then, we used Computer Vision to extract the images of shipping element from the background
+- To train the model, we adopted a deep learning approach using the SSD Mobile Net v2 Convolutional Neural Network.
+- We decided to use a 8 bit quantization to make the model lite and easy to run on our control hub. 
+- Using Vuforia and Tensorflow Lite we configured our camera and model, to accurately detect the position of the shipping element and move the arm to the appropriate position to provide us with 20 bonus points.

@@ -1,8 +1,8 @@
 # FTC Team Atlas #20927
 
-<div class="row">
-  <p align="center" ><img src="https://user-images.githubusercontent.com/83014418/159108844-31421b31-b0c7-4a9b-9a34-9f3196391e0b.png" height="350"></p>  
-  <p align="center" ><img src="https://user-images.githubusercontent.com/83014418/159163359-e3387297-24d7-48ea-965b-618e22dbaff8.jpeg" height="350"></p>
+<div class="row"  style="margin:0 auto;">
+  <img src="https://user-images.githubusercontent.com/83014418/159108844-31421b31-b0c7-4a9b-9a34-9f3196391e0b.png" height="350">  
+  <img src="https://user-images.githubusercontent.com/83014418/159163359-e3387297-24d7-48ea-965b-618e22dbaff8.jpeg" height="350">
 </div>
 
 Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Challenge](https://youtu.be/I6lX12idAf8)

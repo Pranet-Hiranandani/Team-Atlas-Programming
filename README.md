@@ -39,6 +39,7 @@ Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Cha
 - Using Vuforia and Tensorflow Lite we configured our camera and model, to accurately detect the position of the shipping element and move the arm to the appropriate position to provide us with 20 bonus points.
 
 *Precision-
+
 <img src="https://user-images.githubusercontent.com/83014418/159152223-dcd7037a-9c88-4f1a-80a1-890f7766d7b4.png">
 
 ![precision](https://user-images.githubusercontent.com/83014418/159152223-dcd7037a-9c88-4f1a-80a1-890f7766d7b4.png)

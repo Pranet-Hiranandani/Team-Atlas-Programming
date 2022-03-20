@@ -18,4 +18,5 @@ Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Cha
 
 - A fixed, static path can be set for the robot to deploy the freight and then park in the alliance warehouse or alliance storage unit.
 
-<img src="https://2589213514-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHCAE012xNfg1h3SM9v%2F-MhnZwaDglmjTpkr440u%2F-Mhti0QkX3gRgYC69QhR%2Fgame%20floor%20auton%20plan.svg?alt=media&token=475a2459-d4f1-4dd8-a6d7-a302a40e943a" width="500">
+<img src="https://user-images.githubusercontent.com/83014418/159151614-9f09e7b5-b1b0-480b-b4a2-d4ec89f6d909.svg" width="500">
+

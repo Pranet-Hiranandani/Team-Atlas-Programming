@@ -47,5 +47,4 @@ Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Cha
 *Total Loss: *
 
 ![model-in-action](https://user-images.githubusercontent.com/83014418/159152316-b4b872a6-1d31-4415-94b4-04add62f06f9.png)
-
 *Model in Action*

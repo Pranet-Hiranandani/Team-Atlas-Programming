@@ -46,6 +46,6 @@ Autonoumous programming for FTC Team Atlas #20927, competing in the [2021-22 Cha
 
 <img src= "https://user-images.githubusercontent.com/83014418/159152140-4df93d6b-67a1-4152-aa11-5ad857b607fe.png" width=400>
 
-### Nodel in Action
+### Model in Action
 
-<img src= "https://user-images.githubusercontent.com/83014418/159152316-b4b872a6-1d31-4415-94b4-04add62f06f9.png" width=400>
+<img src= "https://user-images.githubusercontent.com/83014418/159152316-b4b872a6-1d31-4415-94b4-04add62f06f9.png" width=450>
